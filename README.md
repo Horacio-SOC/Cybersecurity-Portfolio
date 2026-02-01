@@ -1,8 +1,8 @@
 # Portafolofio de Ciberseguridad
 
-Este repositorio forma parte de mi portafolio personal como futuro profesional en ciberseguridad. Aqui se encuentran documentados laboratorios prácticos y configuraciones basicas.
+Este repositorio forma parte de mi portafolio personal como futuro profesional en ciberseguridad. Aqui se documentan laboratorios prácticos y configuraciones básicas, incluyendo capturas, análisis, resultados obtenidos y una reflexión final.
 
-Cada laboratorio contiene archivos PDF con el desarrollo completo, capturas, configuraciones, resultados obtenidos y una reflexión final
+El objetivo es demostrar conocimientos técnicos, capacidad de análisis y experiencia práctica en escenarios reales de ciberseguridad.
 
 ---
 
@@ -12,15 +12,15 @@ Cybersecurity-Portfolio
 
 [`Foundations/`](./Foundations) 
 
-- [`Linux/`](./Foundations/Linux) – Bash basico en linux
-- [`Networks/`](./Foundations/Networks) - Creación de una red simple y configuracion sobre pfSense
+- [`Linux/`](./Foundations/Linux) – Bash básico en linux
+- [`Networks/`](./Foundations/Networks) - Configuración de una red básica y instalación básica pfSense con NAT
 - [`Wazuh/`](./Foundations/Wazuh) - Creacion de Dashboard para el Overview en Wazuh
  
 [`Laboratories/`](./Laboratories) 
 
-- [`Linux/`](./Laboratories/Linux) – Bash basico en linux
-- [`Networks/`](./Laboratories/Networks) - Creación de una red simple y configuracion sobre pfSense
-- [`Wazuh/`](./Laboratories/Wazuh) - Creacion de Dashboard para el Overview en Wazuh
+- [`Linux/`](./Laboratories/Linux) – Análisis de logs, procesos y servicios, administración basica y hardening 
+- [`Networks/`](./Laboratories/Networks) - Cáptura y análisis de trafico DHCP y ARP con Wireshark
+- [`Wazuh/`](./Laboratories/Wazuh) - Monitoreo de integridad de archivos (FIM), detección de fuerza bruta y ejecuciones anómalas en PowerShell
 
 ---
 
