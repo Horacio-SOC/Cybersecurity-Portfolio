@@ -1,6 +1,6 @@
 # Portafolofio de Ciberseguridad
 
-Este repositorio fomra parte de mi portafolio personal como profesional en ciberseguridad. Aqui se encuentran laboratorios prácticos y conocimientos fundamentales sobre la ciberseguridad
+Este repositorio forma parte de mi portafolio personal como futuro profesional en ciberseguridad. Aqui se encuentran documentados laboratorios prácticos y configuraciones basicas.
 
 Cada laboratorio contiene archivos PDF con el desarrollo completo, capturas, configuraciones, resultados obtenidos y una reflexión final
 
@@ -21,3 +21,7 @@ Cybersecurity-Portfolio
 - [`Linux/`](./Laboratories/Linux) – Bash basico en linux
 - [`Networks/`](./Laboratories/Networks) - Creación de una red simple y configuracion sobre pfSense
 - [`Wazuh/`](./Laboratories/Wazuh) - Creacion de Dashboard para el Overview en Wazuh
+
+---
+
+¡Gracias por visitar este repositorio!
