@@ -8,7 +8,6 @@ Cada laboratorio contiene archivos PDF con el desarrollo completo, capturas, con
 
 Estructura del repositorio
 
-Cybersecurity-Portfolio/
-|
-|── ['Foundations/'](./Foundations)/
+Cybersecurity-Portfolio
+[`Foundations/`](./Foundations)/ 
  
