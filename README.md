@@ -9,5 +9,10 @@ Cada laboratorio contiene archivos PDF con el desarrollo completo, capturas, con
 Estructura del repositorio
 
 Cybersecurity-Portfolio
-[`Foundations/`](./Foundations)/ 
+
+[`Foundations/`](./Foundations) 
+
+- [`Linux/`](./Linux) – Configuraciones 
+- [`Networks/`](./Networks) - Creación de una red simple y configuracion sobre pfSense
+- [`Wazuh/`](./Wazuh) - Creacione de Dashboard para el Overview
  
