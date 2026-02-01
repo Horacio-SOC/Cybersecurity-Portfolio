@@ -16,3 +16,8 @@ Cybersecurity-Portfolio
 - [`Networks/`](./Foundations/Networks) - Creación de una red simple y configuracion sobre pfSense
 - [`Wazuh/`](./Foundations/Wazuh) - Creacion de Dashboard para el Overview en Wazuh
  
+[`Laboratories/`](./Laboratories) 
+
+- [`Linux/`](./Laboratories/Linux) – Bash basico en linux
+- [`Networks/`](./Laboratories/Networks) - Creación de una red simple y configuracion sobre pfSense
+- [`Wazuh/`](./Laboratories/Wazuh) - Creacion de Dashboard para el Overview en Wazuh
